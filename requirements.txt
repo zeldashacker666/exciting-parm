@@ -1,0 +1,19 @@
+# For generating fake data
+Faker==18.6.1
+
+# For mocking and testing
+unittest2==1.1.0    # Extends Python's built-in unittest module with additional features
+
+# For automation
+Selenium==4.10.0     # For web automation and browser control (e.g., interacting with web pages programmatically)
+requests==2.31.0     # For automating HTTP requests (e.g., making API calls or submitting forms)
+
+# For data storage
+pandas==2.1.0        # Data manipulation and storage in dataframes (great for CSVs, Excel files, and databases)
+SQLAlchemy==2.0.21    # ORM for interacting with databases
+sqlite==3.39.4       # SQLite, a lightweight database engine (can be used for local storage)
+
+# Other utilities you may need
+pytest==7.4.0         # A testing framework for unit testing automation
+Faker==18.6.1
+pandas==2.1.0
